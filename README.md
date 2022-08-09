@@ -1,5 +1,16 @@
 # VegetableShopWeb
 
+Using JSP,Servlet , MSSSQL , Html/CSS, Javascript, Bootstrap 4.0
+
+Function:
++Login with google
++Show list product
++Search Product
++Welcome User
++Filter 
++CRUD product/order
++CheckOut Order
+
 <img src="https://user-images.githubusercontent.com/86512368/183635376-1598fb02-c7ed-4488-85c3-3273e0057e6f.png"/>
 
 <img src="https://user-images.githubusercontent.com/86512368/183635785-28b50213-427a-4991-a9b7-2f4d04e11229.png"/>
